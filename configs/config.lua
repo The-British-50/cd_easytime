@@ -51,8 +51,8 @@ Config.TsunamiWarning_time = 4 --(in minutes) How long the tsunami warning shoul
 
 Config.TimeCycleSpeed = 2 --(in seconds) Changing this value will effects the day/night time cycle, decreasing slows it down, incresing speeds it up. Right now its similar to the default gta5 time cycle.
 Config.DynamicWeather_time = 10 --(in minutes) If dynamic weather is enabled, this value is how long until the weather changes.
-Config.RainChance = 30 --The percent chance for it to rain out of 100.
-Config.SnowChance = 10 --The percent chance for it to snow out of 100.
+Config.RainChance = 10 --The percent chance for it to rain out of 100.
+Config.SnowChance = 50 --The percent chance for it to snow out of 100.
 Config.ThunderChance = 20 --The percent chance for it to thunder when raining out of 100.
 Config.VehicleBlackoutEffect = false --Do you want the lights on vehicles to be turned off during blackouts?
 
