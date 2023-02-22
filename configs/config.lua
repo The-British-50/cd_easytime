@@ -60,5 +60,5 @@ Config.WeatherGroups = { --These are the weather groups, it will cycle through e
     [1] = {'CLEAR', 'OVERCAST','EXTRASUNNY', 'CLOUDS'},--clear
     [2] = {'CLEARING', 'RAIN', 'NEUTRAL', 'THUNDER'},--rain
     [3] = {'SMOG', 'FOGGY'},--foggy
-    [4] = {'SNOWLIGHT', 'SNOW', 'BLIZZARD', 'XMAS'},--snow
+    --[4] = {'SNOWLIGHT', 'SNOW', 'BLIZZARD', 'XMAS'},--snow
 }
